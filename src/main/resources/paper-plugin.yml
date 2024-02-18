@@ -1,0 +1,5 @@
+name: PH-CORE
+version: '${project.version}'
+main: me.heitorribeiro.phcore.PH_CORE
+api-version: '1.20'
+load: STARTUP
